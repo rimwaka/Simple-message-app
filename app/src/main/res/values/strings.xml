@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Txt</string>
+    <string name="Going">Going</string>
+    <string name="Input_text">Input Text</string>
+    <string name="Phone_number">Phone Number</string>
+</resources>
